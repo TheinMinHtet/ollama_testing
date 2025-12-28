@@ -50,5 +50,5 @@ Now , you get the response and ask anything you want.
 
 
 ```python
-You can change 
+You can change model anything you want FROM ****
 ```
