@@ -1,4 +1,3 @@
-[Uploading test_model.md…]()
 ## Mario Assistant Model (Ollama)
 
 This custom Ollama model is based on **Gemma 3 (1B)** and is configured
